@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+3fd484dcb871812d22b6840c7cea07010ea9b123 refs/remotes/origin/dependabot/maven/junit-junit-4.13.1
+0297531524bce0736587f2ee62172da5708ca543 refs/remotes/origin/java
+6c93e54ab5022ccf25d030236e3e76a1d01e3c81 refs/remotes/origin/master
+b540a4b3a610019ffabebaeb7a3106a62fae96ef refs/tags/1.1.0
+^b7d3320a86908da1cdf37df8a60c50d1285c3c5b
+6763c7c9452fb2a4c128ee63766bf2c7a9873499 refs/tags/2.1.0
+^292c7436198523e115e8a9839bd5eb3ee1c41999
+438d13a3939bed40bb1bd738d4becfe41abca773 refs/tags/2.1.1
+^523c5374c7cc9b71fce9de786b825b34062d711b
